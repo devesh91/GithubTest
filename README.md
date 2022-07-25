@@ -18,7 +18,9 @@ Documentation: Postman
 Python Libraries: Requests, multiprocessing
 
 **API Description:**
+
 HTTP Method:GET
+
 API 1: v1/healthCheck: API endpoint to check if the service is available & accessible in less than 0.5 seconds.
 API 2: v1/checkRepo: API endpoint to fetch data(Stars,forks) for given repository from Github and check if its popular or not
 API 3: /: show all available API for application
