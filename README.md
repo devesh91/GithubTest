@@ -31,10 +31,10 @@ Install Requirements
 pip install -r requirements.txt
 
 **To Run the application server**
-python Assignment/Github_Popularity_Checker/main.py
+python Github_Popularity_Checker/main.py
 
  **To Run Test Cases**
-python Assignment/test.py
+python test.py
 
 **To access documentation:**
 https//www.github.com>/docs
